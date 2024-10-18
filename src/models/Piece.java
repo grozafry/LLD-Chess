@@ -2,7 +2,7 @@ package models;
 
 import java.util.ArrayList;
 
-abstract class Piece{
+public abstract class Piece{
 
     protected  Color color;
     protected  PieceType type;
